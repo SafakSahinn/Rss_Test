@@ -1,0 +1,10 @@
+C:\Users\Şafak Şahin\Desktop\Rss_Test\Rss_Test\bin\Debug\Rss_Test.exe.config
+C:\Users\Şafak Şahin\Desktop\Rss_Test\Rss_Test\bin\Debug\Rss_Test.exe
+C:\Users\Şafak Şahin\Desktop\Rss_Test\Rss_Test\bin\Debug\Rss_Test.pdb
+C:\Users\Şafak Şahin\Desktop\Rss_Test\Rss_Test\obj\Debug\Rss_Test.csproj.AssemblyReference.cache
+C:\Users\Şafak Şahin\Desktop\Rss_Test\Rss_Test\obj\Debug\Rss_Test.Form1.resources
+C:\Users\Şafak Şahin\Desktop\Rss_Test\Rss_Test\obj\Debug\Rss_Test.Properties.Resources.resources
+C:\Users\Şafak Şahin\Desktop\Rss_Test\Rss_Test\obj\Debug\Rss_Test.csproj.GenerateResource.cache
+C:\Users\Şafak Şahin\Desktop\Rss_Test\Rss_Test\obj\Debug\Rss_Test.csproj.CoreCompileInputs.cache
+C:\Users\Şafak Şahin\Desktop\Rss_Test\Rss_Test\obj\Debug\Rss_Test.exe
+C:\Users\Şafak Şahin\Desktop\Rss_Test\Rss_Test\obj\Debug\Rss_Test.pdb
